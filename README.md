@@ -15,9 +15,9 @@ Perda = valor mensal do veículo ÷ 30 × dias de manutenção sem reserva
 ## Integrantes
 
 - Ellisama Barbosa Sousa Silva
-- [NOME DO INTEGRANTE 2]
-- [NOME DO INTEGRANTE 3]
-- [NOME DO INTEGRANTE 4]
+- Isabella Alvarenga da Silva
+- Allyson Figueredo Sousa
+- Anderson Antunes Sintra
 
 ## Arquivos
 
